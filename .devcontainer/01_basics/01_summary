@@ -1,0 +1,34 @@
+// primitive 
+// 7type - Number ,Boolean ,String , BigInt , Null , Undefined ,Symbol
+
+const score = 100
+console.log(typeof score)
+const isloggedIn=false
+let userEmail;
+console.log(typeof userEmail)
+console.log(typeof isloggedIn)
+
+const id=Symbol("123")
+const anotherid=Symbol("1986")
+console.log(id===anotherid);
+console.log(id);
+console.log(anotherid);
+
+const bigNumber = 78643346788888887889n
+
+
+
+
+// reference (non-primitive)
+//array , funtions ,objects
+
+const heros =['shaktiman' ,'naagraj','doga']
+console.log(heros)
+let myobj= {
+    name:"hitish",
+    age:22,
+}
+const myfunction= function () {
+    console.log("hello world")
+}
+console.log(typeof bigNumber);
