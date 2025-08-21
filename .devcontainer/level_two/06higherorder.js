@@ -56,14 +56,14 @@
 // console.log(name);
 // })
 
-const mycoding=[{languagename:'js',
-    languagefilename:'javascript'},
+// const mycoding=[{languagename:'js',
+//     languagefilename:'javascript'},
 
-    {languagename:'py',
-    languagefilename:'python'},
+//     {languagename:'py',
+//     languagefilename:'python'},
 
-    {languagename:'java',
-    languagefilename:'java'},]
-mycoding.forEach((item) => {
-    console.log(item.languagename);
-})
+//     {languagename:'java',
+//     languagefilename:'java'},]
+// mycoding.forEach((item) => {
+//     console.log(item.languagename);
+// })
